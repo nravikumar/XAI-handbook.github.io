@@ -21,7 +21,8 @@ When it comes to model selection, there's often a critical blind spot in current
 <div align="justify">
 Finally, XAI plays a multifaceted role in the stakeholder communication stage serving as a bridge between technical implementation and practical use. This includes, translating complex model mechanisms into accessible and understandable information, understanding the implications of model decisions and the context-of-use within which the model's use is safe/appropriate, providing actionable insights that support subsequent informed decision-making by the stakeholders, and generating evidence-based justifications for model design choices, to name a few. This stage of the model development lifecycle must therefore include comprehensive documentation comprising - the diagnostic methodology, improvement strategies, and model selection criteria adopted, establishing clear traceability between identified issues and implemented solutions throughout the development lifecycle; local (sample-specific) and global (across groups or sub-groups, e.g. dataset, class, attributes) explanations to contextualise model performance within the specific domain of application; and accessible justifications for overall conclusions and end-user facing decisions, employing appropriate levels of technical detail for different stakeholder groups while maintaining scientific rigor.
 </div>
+<br/>
 
-[XAI focus group questionnaire](./XAI-fg-Q.md).
+[XAI focus group questionnaire](./XAI-fg-Q.md)
 
-[XAI focus group results](./XAI-fg-R.md).
+[XAI focus group results](./XAI-fg-R.md)

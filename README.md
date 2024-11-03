@@ -1,2 +1,2 @@
 # XAI Protocol
-XAI Protocol: A practical guide to building eXplAInable Machine Learning Classifiers
+A practical guide to building eXplAInable Machine Learning Classifiers

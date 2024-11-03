@@ -24,6 +24,4 @@ Finally, XAI plays a multifaceted role in the stakeholder communication stage se
 
 [XAI focus group questionnaire](./XAI-fg-Q.md).
 
-<br/>
-
 [XAI focus group results](./XAI-fg-R.md).

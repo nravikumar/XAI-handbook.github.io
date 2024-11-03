@@ -1,2 +1,2 @@
-# XAI Protocol
-A practical guide to building eXplAInable Machine Learning Classifiers
+## XAI Protocol
+This repository summarises findings from a series of focus groups conducted to understand how explainable AI (XAI) is used in current practice, when building Machine Learning (ML) classification models. Insights from the focus groups, survey of relevant literature and empirical investigations are used to establish a set of recommendations for implementing XAI techniques in ML classification models. The core mission is to provide a set of guidelines, i.e. establish an XAI protocol, that enables relevant stakeholders to make effective use of XAI in their model development lifecycle. 

@@ -1,7 +1,7 @@
 ## XAI Protocol
 
 <div align="justify">
-This repository summarises findings from a series of focus groups conducted to understand how explainable AI (XAI) is used in current practice when building classification models. Insights from the focus groups, survey of relevant literature and empirical investigations are used to establish a set of recommendations for implementing XAI techniques in classification models. The core mission is to provide a set of best practices, i.e. establish an XAI protocol, that enables relevant stakeholders to make effective use of XAI in their model development lifecycle. 
+This repository summarises findings from a series of focus groups conducted to understand how explainable AI (XAI) is used in current practice when building classification models. Insights from the focus groups, survey of relevant literature and empirical investigations are used to establish a set of recommendations for implementing XAI-enabled classification models. The core mission is to provide a set of best practices, i.e. establish an XAI protocol, that enables relevant stakeholders to make effective use of XAI in their model development lifecycle. 
 </div>
 
 ## XAI in the model development lifecycle

@@ -24,3 +24,18 @@ The different types of data used by the participants in their research were:
 
 4) Multi-modal data (12.5%)
 
+<img src="data-types-pie-svg.svg" width="50%">
+
+The types of classification tasks tackled by different participants in their research were grouped in five categories. These are described below along with a summary of participant responses.
+
+1) Binary classification (36.4%)
+
+2) Small multi-class (3 - 10 classes) classification (50%)
+
+3) Large multi-class (>10 classes) classification (0%)
+
+4) Small multi-label (3 - 10 classes) classification (9.1%)
+
+5) Large multi-label (>10 classes) classification (4.5%)
+
+Small multi-class classification is the most common type of classification problem encountered while no participants reported working on large multi-class classification tasks.

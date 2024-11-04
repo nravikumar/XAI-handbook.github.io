@@ -28,7 +28,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Create baseline measurements for model behavior
 
-3. Testing and Comparison:
+3. Preliminary Testing and Comparison of XAI approches:
    
 - Implement multiple shortlisted XAI approaches
 
@@ -60,7 +60,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Document relationship between XAI insights and improvements made
 
-4. Model Selection: (Including classifier, XAI approach & visualisations)
+5. Model Selection: (Including classifier, XAI approach & visualisations)
 
 - Define quantitative metrics for XAI performance:
 
@@ -84,7 +84,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Select optimal XAI approach based on quantitative results
 
-5. Stakeholder Communication:
+6. Stakeholder Communication:
 
 - Create layered communication strategy:
   
@@ -100,7 +100,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Provide interactive exploration tools where appropriate
 
-6. Continuous Monitoring and Refinement:
+7. Continuous Monitoring and Refinement:
 
 - Track explanation quality over time, monitoring performance drifts
 

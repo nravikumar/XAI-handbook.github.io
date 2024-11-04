@@ -124,4 +124,9 @@ This systematic approach enables relevant stakeholders (from developers to end-u
 
 Practical implementation of the proposed protocol and demonstration of XAI integration across the full classification model development lifecycle is explored through several case studies which tackle diverse data types, types of classification problems, and types of classification models:
 
-* 
+* [Case study 1: Image classification](./case-study-image.md)
+
+* [Case study 2: Video classification](./case-study-video.md)
+
+* [Case study 3: Structured data classification](./case-study-stdata.md) 
+

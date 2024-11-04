@@ -121,3 +121,7 @@ The integration of XAI across the machine learning classification model developm
 - Effective stakeholder engagement and understanding
 
 This systematic approach enables relevant stakeholders (from developers to end-users) to make informed decisions about XAI method selection, implementation, and interpretation, while maintaining traceability between model improvements and explanatory insights.
+
+Practical implementation of the proposed protocol and demonstration of XAI integration across the full classification model development lifecycle is explored through several case studies which tackle diverse data types, types of classification problems, and types of classification models:
+
+* 

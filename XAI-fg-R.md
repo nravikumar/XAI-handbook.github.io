@@ -12,5 +12,15 @@ The main research domains of the participants in the XAI focus groups were:
 
 5) Bioinformatics/microscopy (7.7%)
 
-
 <img src="research-domains-pie-svg-adjusted.svg" width="50%">
+
+The different types of data used by the participants in their research were:
+
+1) Images (43.75%)
+
+2) Time-series data (25%)
+
+3) Structured data (18.75%)
+
+4) Multi-modal data (12.5%)
+

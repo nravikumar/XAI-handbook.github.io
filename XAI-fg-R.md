@@ -1,3 +1,5 @@
+## XAI Focus Group Results
+
 ## Research domains
 
 The main research domains of the participants in the XAI focus groups were: 

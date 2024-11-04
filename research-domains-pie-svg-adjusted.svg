@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" style="background-color: white;">
+    <!-- Explicit white background -->
+    <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+    
+    <!-- Title -->
+    <text x="300" y="40" text-anchor="middle" font-size="20" font-weight="bold" font-family="Arial" fill="black">Distribution of Research Domains</text>
+    
+    <!-- Pie Chart - moved slightly left -->
+    <g transform="translate(180, 200)">
+        <!-- Computer Vision/Digital Pathology (53.8%) -->
+        <path d="M 0 0 L 100 0 A 100 100 0 1 1 -89.1 -44.5 Z" 
+              fill="#0088FE"/>
+              
+        <!-- Healthcare/Medical Records (23.1%) -->
+        <path d="M 0 0 L -89.1 -44.5 A 100 100 0 0 1 -30.9 -95.1 Z" 
+              fill="#00C49F"/>
+              
+        <!-- NLP (7.7%) -->
+        <path d="M 0 0 L -30.9 -95.1 A 100 100 0 0 1 30.9 -95.1 Z" 
+              fill="#FFBB28"/>
+              
+        <!-- Applied Mathematics (7.7%) -->
+        <path d="M 0 0 L 30.9 -95.1 A 100 100 0 0 1 89.1 -44.5 Z" 
+              fill="#FF8042"/>
+              
+        <!-- Bioinformatics (7.7%) -->
+        <path d="M 0 0 L 89.1 -44.5 A 100 100 0 0 1 100 0 Z" 
+              fill="#8884d8"/>
+    </g>
+    
+    <!-- Legend - adjusted position -->
+    <g transform="translate(340, 120)">
+        <!-- Computer Vision -->
+        <rect x="0" y="0" width="20" height="20" fill="#0088FE"/>
+        <text x="30" y="15" font-size="12" font-family="Arial" fill="black">Computer Vision/Digital Path. (53.8%)</text>
+        
+        <!-- Healthcare -->
+        <rect x="0" y="30" width="20" height="20" fill="#00C49F"/>
+        <text x="30" y="45" font-size="12" font-family="Arial" fill="black">Healthcare/Medical Records (23.1%)</text>
+        
+        <!-- NLP -->
+        <rect x="0" y="60" width="20" height="20" fill="#FFBB28"/>
+        <text x="30" y="75" font-size="12" font-family="Arial" fill="black">NLP (7.7%)</text>
+        
+        <!-- Applied Math -->
+        <rect x="0" y="90" width="20" height="20" fill="#FF8042"/>
+        <text x="30" y="105" font-size="12" font-family="Arial" fill="black">Applied Math/Statistics (7.7%)</text>
+        
+        <!-- Bioinformatics -->
+        <rect x="0" y="120" width="20" height="20" fill="#8884d8"/>
+        <text x="30" y="135" font-size="12" font-family="Arial" fill="black">Bioinformatics/Microscopy (7.7%)</text>
+    </g>
+</svg>

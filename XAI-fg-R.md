@@ -76,3 +76,7 @@ According to current literature, the model improvement stage is where XAI usage 
 
 The integration of automated XAI pipelines represents a promising direction for improving current practices. Such pipelines could standardise the evaluation of explanation quality and facilitate continuous monitoring of model behavior, addressing the current ad-hoc approach evident in focus group responses and recent literature in the domain. Furthermore, the development of interactive explanation interfaces could bridge the gap between technical capability and stakeholder comprehension, addressing the communication challenges highlighted by multiple participants.
 
+Given this gap in current literature and the need for a standardised protocol for adopting XAI in classification model development, we propose an XAI protocol based on insights dervied from the conducted focus groups, survey of relevant literature and empirical investigations.
+
+[XAI Protocol](./XAI-protocol.md)
+

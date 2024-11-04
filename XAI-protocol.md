@@ -82,7 +82,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Evaluate trade-offs between explainability and model performance
 
-- Select optimal XAI approach based on quantitative results
+- Select most suitable combination of classifier, XAI approach and visualisation, based on quantitative results
 
 6) Stakeholder Communication:
 

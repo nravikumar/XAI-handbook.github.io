@@ -2,7 +2,7 @@
 
 The integration of XAI across the machine learning classification model development lifecycle often lacks systematic implementation, particularly during the model improvement phase, leading to inconsistent and potentially suboptimal utilisation of explanatory insights. To address this gap, we propose a comprehensive protocol for selecting, implementing, and evaluating XAI approaches throughout the model development lifecycle. This protocol comprises seven interconnected stages: initial XAI approach selection based on context-of-use, model characteristics and stakeholder requirements; systematic model diagnosis using selected XAI methods; comparative testing of multiple XAI approaches for shortlisting; integration of XAI insights for model improvement; quantitative evaluation of XAI effectiveness (alongside evaluating classifiers and visualisation strategies); structured stakeholder communication; and continuous monitoring and refinement. The protocol addresses the current ad hoc nature of XAI implementation by providing a structured framework that ensures consistent application of explainability methods, facilitates quantifiable improvement in both model performance and explanation quality, and enables effective stakeholder engagement throughout the development process. 
 
-1. Initial XAI Approach Selection:
+1) Initial XAI Approach Selection:
 
 - Define context-of-use and explanation requirements (local vs. global, feature attribution needs)
   
@@ -12,7 +12,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Create a shortlist of potentially suitable XAI approaches
 
-2. Model Diagnosis:
+2) Model Diagnosis:
 
 - Apply selected XAI methods to analyze:
 
@@ -28,7 +28,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Create baseline measurements for model behavior
 
-3. Preliminary Testing and Comparison of XAI approches:
+3) Preliminary Testing and Comparison of XAI approches:
    
 - Implement multiple shortlisted XAI approaches
 
@@ -44,7 +44,7 @@ The integration of XAI across the machine learning classification model developm
   
 - Document discrepancies and insights gained from each method
   
-4. Model Improvement Integration:
+4) Model Improvement Integration:
 
 - Use XAI insights to:
 
@@ -60,7 +60,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Document relationship between XAI insights and improvements made
 
-5. Model Selection: (Including classifier, XAI approach & visualisations)
+5) Model Selection: (Including classifier, XAI approach & visualisations)
 
 - Define quantitative metrics for XAI performance:
 
@@ -84,7 +84,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Select optimal XAI approach based on quantitative results
 
-6. Stakeholder Communication:
+6) Stakeholder Communication:
 
 - Create layered communication strategy:
   
@@ -100,7 +100,7 @@ The integration of XAI across the machine learning classification model developm
 
 - Provide interactive exploration tools where appropriate
 
-7. Continuous Monitoring and Refinement:
+7) Continuous Monitoring and Refinement:
 
 - Track explanation quality over time, monitoring performance drifts
 
